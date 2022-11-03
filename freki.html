@@ -10,7 +10,7 @@
 <body>
     <a href="index.html">Főoldal</a>
     <br>
-        <h1>Frekiszámok</h1>
+       <center><h1>Frekiszámok</h1></center> 
         <img src="Img/Rezonancia+frekvencia.jpg" alt="400" height="350">
     <form action="">
         <label for=""induk>Add meg az induktivitást</label>
@@ -23,6 +23,7 @@
     <script>
         let freki;
         function szamol(){
+                freki = induk.value + capac.value ;
                 document.getElementById('fo').innerHTML = freki;
         }
 
