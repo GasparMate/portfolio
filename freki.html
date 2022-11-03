@@ -13,10 +13,10 @@
     <h1>Frekiszámok</h1>
            <img src="img/Rezonancia+frekvencia.jpg" alt="" height="300" >
     <form action="">
-        <label for=""induk>Add meg az induktivitást</label>
+        <label for="induk">Add meg az induktivitást</label>
         <input type="number" name="induk" id="induk"> <br>
         <label for="capac">add meg az számot</nav> </label>
-        <input type="number" name="capac id=capac"> <br>
+        <input type="number" name="capac" id="capac"> <br>
         <input type="button" onclick="szamol()" value="ENTER">
         <br>
     </form>
@@ -24,7 +24,7 @@
     <script>
         let freki;
         function szamol(){
-                freki =1/ (2 * Math.PI *  Math.sqrt (induk.value) + parseInt(capac.value)) ;
+                freki =1/ (2 * Math.PI *  Math.sqrt((induk.value) * parseInt(capac.value))) ;
                 document.getElementById('fo').innerHTML = freki;
         }
 
