@@ -6,7 +6,9 @@ A vezeték nélküli led kapcsolási rajza:
 A saját Munkám működőképes,sajátosan valasztott eszközökkel 
 ![kép](led.jpeg)
 
-A vezeték nélküli led másik része
-![Kép](tér.jpeg)
+A vezeték nélküli led
+![KÉP](led.jpeg)
+
+
 
 
