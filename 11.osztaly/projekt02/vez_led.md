@@ -9,6 +9,14 @@ A saját Munkám működőképes,sajátosan valasztott eszközökkel
 A vezeték nélküli led
 ![KÉP](led.jpeg)
 
+Elkészítése:
+A vezeték nélküli ledet órán készítettem 
+körülbelűl az elkészítése 7 45perce órát vett igénybe 
+A forrasztást magam oldottam meg ezt tanárúr kötelezte nekünk hpgy minnél jobb és szebb forraszást tudjunk csinálni a késöbbiekben 
+A tekercset saját magunk tekertük
+
+
+
 
 
 
