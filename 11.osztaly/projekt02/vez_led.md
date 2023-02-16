@@ -17,6 +17,10 @@ A tekercset saját magunk tekertük meg ez volt a feladat legkönnyebb része
 
 A Használt eszközök:
 
+![Kép](rajz.gif)
+Ez alapján dolgoztam innen néztem a eszközöket 
+
+
 
 
 
