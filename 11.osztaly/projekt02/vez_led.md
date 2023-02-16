@@ -12,7 +12,7 @@ A vezeték nélküli led
 Elkészítése:
 A vezeték nélküli ledet órán készítettem 
 körülbelűl az elkészítése 7 45perce órát vett igénybe 
-A forrasztást magam oldottam meg ezt tanárúr kötelezte nekünk hpgy minnél jobb és szebb forraszást tudjunk csinálni a késöbbiekben 
+A forrasztást magam oldottam meg ezt tanárúr kötelezte nekünk hogy minnél jobb és szebb forraszást tudjunk csinálni a késöbbiekben 
 A tekercset saját magunk tekertük meg ez volt a feladat legkönnyebb része
 
 
